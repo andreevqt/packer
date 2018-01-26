@@ -1,0 +1,6 @@
+- add gcc support
+- add support for x64 and arm
+- add stub for both supported architecures
+- add samples
+- add tests
+- add github CI
